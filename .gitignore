@@ -1,0 +1,5 @@
+# caches files
+*.DS_Store
+*.vs*
+*.idea*
+*._*

@@ -1,5 +1,5 @@
-# caches files
-*.DS_Store
-*.vs*
-*.idea*
-*._*
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
